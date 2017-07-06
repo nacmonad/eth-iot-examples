@@ -1,0 +1,34 @@
+{
+  "name": "eth-iot-examples",
+  "version": "1.0.0",
+  "description": "Where I'll put my blockchain + IOT examples and smart contracts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon --exec babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacmonad/eth-iot-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacmonad/eth-iot-examples/issues"
+  },
+  "homepage": "https://github.com/nacmonad/eth-iot-examples#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "node-raspi": "^1.0.1",
+    "pi-gpio": "0.0.8",
+    "rpi-gpio": "^0.8.1",
+    "rpi-leds": "0.0.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "nodemon": "^1.11.0"
+  }
+}
