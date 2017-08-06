@@ -1,8 +1,3 @@
-
-
-Pre-requisites:
-
-
 # eth-iot-examples
 
 Where I'll put my blockchain + IOT examples and smart contracts.
