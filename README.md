@@ -4,7 +4,9 @@ Where I'll put my blockchain + IOT examples and smart contracts.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Pi stuff (babel-node ES6 server) is in the /pi folder.  Run the ````npm install````, and ````npm start```` scripts from there.
+
+/eth folder contains testrpc and solidity contracts that you will run, compile and deploy locally.
 
 ### Prerequisites
 
