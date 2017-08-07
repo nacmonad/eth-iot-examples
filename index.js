@@ -1,5 +1,5 @@
 import express from 'express';
-import switchExample from './switchExample';
+import switchExample from './examples/switchExample';
 
 const PORT = 3030;
 
