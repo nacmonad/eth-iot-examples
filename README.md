@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 * raspberry pi w/ nodejs - (http://thisdavej.com/beginners-guide-to-installing-node-js-on-a-raspberry-pi/)
 * ethereumjs-testrpc - (https://github.com/ethereumjs/testrpc)
 * browser solidity - (https://github.com/ethereum/browser-solidity)
-
+* Web3 -- may require ```` npm install lerna ````
 
 ### Installing
 
@@ -36,5 +36,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * WhatTheFunc
-* 
+*
 *
