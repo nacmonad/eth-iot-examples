@@ -13,7 +13,12 @@ These instructions will get you a copy of the project up and running on your loc
 * browser solidity - (https://github.com/ethereum/browser-solidity)
 * Web3 -- may require ```` npm install lerna ````
 
+###### Optional ######
+* sshfs -- ```` apt-get install sshfs ```` for mounting pi's filesystem
+
 ### Installing
+
+```` npm install ````
 
 ## Deployment
 
@@ -35,6 +40,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* WhatTheFunc
+* 
 *
 *
