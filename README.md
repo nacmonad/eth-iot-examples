@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Web3 -- may require ```` npm install lerna ````
 
 ###### Optional ######
-*sshfs -- ```` apt-get install sshfs ```` for mountin pi's filesystem
+* sshfs -- ```` apt-get install sshfs ```` for mounting pi's filesystem
 
 ### Installing
 
@@ -40,6 +40,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* WhatTheFunc
+* 
 *
 *
