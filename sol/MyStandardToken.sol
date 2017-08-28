@@ -40,7 +40,7 @@ contract MyStandardToken {
         balances[_from] = balances[_from].sub(_value);
         allowed[_from][msg.sender] = allowed[_from][msg.sender].sub(_value);
         balances[_to] = balances[_to].add(_value);
-        
+        Transfer(_from, _to, _amount);
         return true;
     }
     function approve(address _spender, uint _value) returns (bool success){
